@@ -1,0 +1,15 @@
+CreditHistory,Debt,Collateral,Income,CreditRisk
+bad,high,none,A,high
+unknown,high,none,B,high
+unknown,low,none,B,moderate
+unknown,low,none,A,high
+unknown,low,none,C,low
+unknown,low,adequate,C,low
+bad,low,none,A,high
+bad,low,adequate,C,moderate
+good,low,none,C,low
+good,high,adequate,C,low
+good,high,none,A,high
+good,high,none,B,moderate
+good,high,none,C,low
+bad,high,none,B,high
